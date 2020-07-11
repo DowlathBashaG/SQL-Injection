@@ -62,6 +62,8 @@ SQL Injection
 
 5. Login in the browser -> http://localhost:8080/WebGoat/login
 
+ ![login](https://user-images.githubusercontent.com/9671419/87229033-963eef00-c3c2-11ea-823e-dfbb428e860e.PNG)
+
 6. If you are not registered create the user and access.
 
 7. Execute the sql inject commands.
@@ -76,4 +78,8 @@ SQL Injection
 
    if you want to get 5 users.
 
-   Content is  only one user: Plane' or 1=1 LIMIT 5-- 
+   Content is  only one user: Plane' or 1=1 LIMIT 5--    
+  
+![webgoat_2](https://user-images.githubusercontent.com/9671419/87229035-97701c00-c3c2-11ea-9eeb-785e3aeaa679.PNG)
+
+![screen-shot-2018-06-29-at-53856-pm](https://user-images.githubusercontent.com/9671419/87229036-9808b280-c3c2-11ea-9638-eba871456918.png)
