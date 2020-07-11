@@ -86,4 +86,16 @@ SQL Injection
   
 ![webgoat_2](https://user-images.githubusercontent.com/9671419/87229035-97701c00-c3c2-11ea-9eeb-785e3aeaa679.PNG)
 
+## PREVENTING SQL INJECTION
+
+- Performing static & dynamic testing
+
+- Using parameterized queries & ORM's
+
+- Using escape characters in SQL queries
+
+- Enforcing least privelage on database
+
+- Enabling web-application firewalls
+
 
