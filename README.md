@@ -82,4 +82,4 @@ SQL Injection
   
 ![webgoat_2](https://user-images.githubusercontent.com/9671419/87229035-97701c00-c3c2-11ea-9eeb-785e3aeaa679.PNG)
 
-![screen-shot-2018-06-29-at-53856-pm](https://user-images.githubusercontent.com/9671419/87229036-9808b280-c3c2-11ea-9638-eba871456918.png)
+
