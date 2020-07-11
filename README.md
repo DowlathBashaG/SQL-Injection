@@ -1,5 +1,9 @@
 # SQL-Injection
 
+![sqlinject_1](https://user-images.githubusercontent.com/9671419/87229079-e7e77980-c3c2-11ea-8066-338d5a5ad93e.JPG)
+
+![sqlinject_2](https://user-images.githubusercontent.com/9671419/87229082-e918a680-c3c2-11ea-9bad-ed95e4841a2b.JPG)
+
 ## Impact of SQL Injection :
 
 - Extract sensitive information
